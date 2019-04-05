@@ -127,7 +127,7 @@ To augment the data sat, I also flipped images and angles,
 After this training, the car was driving down the road all the time on the [first track](https://github.com/ssr-diaries/Behavioral-Cloning-Project-P4/blob/master/video.mp4).
 
 #### Output
-Output video: https://github.com/thayumaanavan/CarND-Behavioral-Cloning-P3/blob/master/video.mp4
+Output video: https://github.com/ssr-diaries/Behavioral-Cloning-Project-P4/blob/master/video.mp4
 
 (or)
 
